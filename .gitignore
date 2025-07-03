@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Model files or cached LLMs (if added later)
+*.bin
+*.gguf
+
+# IDE/editor
+.vscode/
+.idea/
