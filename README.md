@@ -22,7 +22,6 @@ This project is an AI-powered **voice-interactive system design interviewer** th
 ```bash 
 git clone https://github.com/Ramana-Vanchanagiri/system-design-interviewer.git
 cd system-design-interviewer
-bash```
 
 
 
